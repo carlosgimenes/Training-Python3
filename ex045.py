@@ -6,4 +6,4 @@
 # Link para a resolução: https://youtu.be/tapTa6KVG-A
 # =================================================================================================
 
-# Como foi resolvido
+# Como foi resolvido 
